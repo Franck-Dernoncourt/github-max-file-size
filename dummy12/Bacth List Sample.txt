@@ -1,0 +1,5 @@
+C:\Temp\Directory 1\1.txt	1024	0
+C:\Temp\1.txt	0	0
+C:\Temp\2.txt	1024	0
+C:\Temp\3.txt	2048	1
+C:\Temp\4.txt	1048576	1
